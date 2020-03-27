@@ -1,0 +1,14 @@
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\bin\Debug\mp3randomConsole.exe.config
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\bin\Debug\mp3randomConsole.exe
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\bin\Debug\mp3randomConsole.pdb
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.csprojAssemblyReference.cache
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.csproj.CoreCompileInputs.cache
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.exe
+C:\Users\Joop\source\repos\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.pdb
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\bin\Debug\mp3randomConsole.exe.config
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\bin\Debug\mp3randomConsole.exe
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\bin\Debug\mp3randomConsole.pdb
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.csprojAssemblyReference.cache
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.csproj.CoreCompileInputs.cache
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.exe
+D:\users\Prog\_NEW\mp3randomConsole\mp3randomConsole\obj\Debug\mp3randomConsole.pdb
