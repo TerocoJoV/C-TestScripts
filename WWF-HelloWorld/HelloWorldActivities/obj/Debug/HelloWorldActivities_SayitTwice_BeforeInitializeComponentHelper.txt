@@ -1,0 +1,2 @@
+SayitTwice.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper

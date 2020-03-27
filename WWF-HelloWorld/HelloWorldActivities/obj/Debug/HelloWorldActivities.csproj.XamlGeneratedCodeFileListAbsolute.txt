@@ -1,0 +1,6 @@
+obj\Debug\_HelloWorldActivities.g.cs
+obj\Debug\HelloWorldActivity.g.cs
+obj\Debug\SayitTwice.g.cs
+obj\Debug\HelloWorldActivities_HelloWorldActivity_BeforeInitializeComponentHelper.cs
+obj\Debug\HelloWorldActivities_SayitTwice_BeforeInitializeComponentHelper.cs
+C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\obj\Debug\HelloWorldActivities_HelloWorldActivity_CompiledExpressionRoot.cs

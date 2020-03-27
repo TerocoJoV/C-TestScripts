@@ -1,0 +1,4 @@
+obj\Debug\HelloWorldActivity.g.xaml
+obj\Debug\SayitTwice.g.xaml
+obj\Debug\HelloWorldActivities_HelloWorldActivity_BeforeInitializeComponentHelper.txt
+obj\Debug\HelloWorldActivities_SayitTwice_BeforeInitializeComponentHelper.txt

@@ -1,0 +1,10 @@
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csprojAssemblyReference.cache
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csproj.CoreCompileInputs.cache
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\bin\Debug\WFHost.exe.config
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\bin\Debug\WFHost.exe
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\bin\Debug\WFHost.pdb
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\bin\Debug\HelloWorldActivities.dll
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\bin\Debug\HelloWorldActivities.pdb
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csproj.CopyComplete
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.exe
+C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.pdb
