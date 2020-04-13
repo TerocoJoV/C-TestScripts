@@ -1,60 +1,60 @@
 namespace HelloWorldActivities {
     
-    #line 13 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 13 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System;
     
     #line default
     #line hidden
     
-    #line 1 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 1 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Collections;
     
     #line default
     #line hidden
     
-    #line 14 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 14 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Collections.Generic;
     
     #line default
     #line hidden
     
-    #line 1 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 1 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Activities;
     
     #line default
     #line hidden
     
-    #line 1 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 1 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Activities.Expressions;
     
     #line default
     #line hidden
     
-    #line 1 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 1 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Activities.Statements;
     
     #line default
     #line hidden
     
-    #line 15 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 15 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Data;
     
     #line default
     #line hidden
     
-    #line 16 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 16 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Linq;
     
     #line default
     #line hidden
     
-    #line 17 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 17 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Text;
     
     #line default
     #line hidden
     
-    #line 1 "C:\__GIT\_NEW\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
+    #line 1 "C:\__GIT\C-TestScripts\WWF-HelloWorld\HelloWorldActivities\HelloWorldActivity.xaml"
     using System.Activities.XamlIntegration;
     
     #line default
@@ -400,7 +400,7 @@ namespace HelloWorldActivities {
             
             internal System.Linq.Expressions.Expression @__Expr0GetTree() {
                 
-                #line 43 "C:\__GIT\_NEW\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
+                #line 43 "C:\__GIT\C-TESTSCRIPTS\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
                 System.Linq.Expressions.Expression<System.Func<string>> expression = () => 
           test;
                 
@@ -412,7 +412,7 @@ namespace HelloWorldActivities {
             [System.Diagnostics.DebuggerHiddenAttribute()]
             public string @__Expr0Get() {
                 
-                #line 43 "C:\__GIT\_NEW\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
+                #line 43 "C:\__GIT\C-TESTSCRIPTS\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
                 return 
           test;
                 
@@ -428,7 +428,7 @@ namespace HelloWorldActivities {
             [System.Diagnostics.DebuggerHiddenAttribute()]
             public void @__Expr0Set(string value) {
                 
-                #line 43 "C:\__GIT\_NEW\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
+                #line 43 "C:\__GIT\C-TESTSCRIPTS\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
                 
           test = value;
                 
@@ -503,7 +503,7 @@ namespace HelloWorldActivities {
             
             internal System.Linq.Expressions.Expression @__Expr1GetTree() {
                 
-                #line 52 "C:\__GIT\_NEW\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
+                #line 52 "C:\__GIT\C-TESTSCRIPTS\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
                 System.Linq.Expressions.Expression<System.Func<string>> expression = () => 
         test;
                 
@@ -515,7 +515,7 @@ namespace HelloWorldActivities {
             [System.Diagnostics.DebuggerHiddenAttribute()]
             public string @__Expr1Get() {
                 
-                #line 52 "C:\__GIT\_NEW\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
+                #line 52 "C:\__GIT\C-TESTSCRIPTS\WWF-HELLOWORLD\HELLOWORLDACTIVITIES\HELLOWORLDACTIVITY.XAML"
                 return 
         test;
                 

@@ -46,7 +46,7 @@
           <mca:CSharpValue x:TypeArguments="x:String">test</mca:CSharpValue>
         </InArgument>
       </WriteLine>
-      <sads:DebugSymbol.Symbol>9xRbE7tu02NeFZBJcSKvoit+fQ2Q3UlDOlxfX0dJVFxfTkVXXFdXRi1IZWxsb1dvcmxkXEhlbGxvV29ybGRBY3Rpdml0aWVzXEhlbGxvV29ybGRBY3Rpdml0eS54YW1sBiUDOQ4CAQEpBTIOAgEFMwU3EQIBAjAwMDwCAQgsCyxVAgEGNQk1SwIBAw==</sads:DebugSymbol.Symbol>
+      <sads:DebugSymbol.Symbol>9xRbE7tu02NeFZBJcSKvoit+fQ2Q3VJDOlxfX0dJVFxDLVRlc3RTY3JpcHRzXFdXRi1IZWxsb1dvcmxkXEhlbGxvV29ybGRBY3Rpdml0aWVzXEhlbGxvV29ybGRBY3Rpdml0eS54YW1sBiUDOQ4CAQEpBTIOAgEFMwU3EQIBAjAwMDwCAQgsCyxVAgEGNQk1SwIBAw==</sads:DebugSymbol.Symbol>
     </Sequence>
   </h:HelloWorldActivity.Implementation>
 </h:HelloWorldActivity>

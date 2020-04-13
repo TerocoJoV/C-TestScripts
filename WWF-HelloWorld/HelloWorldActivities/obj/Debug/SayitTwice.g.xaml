@@ -23,7 +23,7 @@
     <Sequence>
       <local:HelloWorldActivity />
       <local:HelloWorldActivity />
-      <sads:DebugSymbol.Symbol>9xTQ1Kyo15fKE5IeZ22zIHEup6lMq0FDOlxfX0dJVFxfTkVXXFdXRi1IZWxsb1dvcmxkXEhlbGxvV29ybGRBY3Rpdml0aWVzXFNheWl0VHdpY2UueGFtbAMeAyMOAgEBHwUfWAIBAyAFIFgCAQI=</sads:DebugSymbol.Symbol>
+      <sads:DebugSymbol.Symbol>9xTQ1Kyo15fKE5IeZ22zIHEup6lMq0pDOlxfX0dJVFxDLVRlc3RTY3JpcHRzXFdXRi1IZWxsb1dvcmxkXEhlbGxvV29ybGRBY3Rpdml0aWVzXFNheWl0VHdpY2UueGFtbAMeAyMOAgEBHwUfWAIBAyAFIFgCAQI=</sads:DebugSymbol.Symbol>
     </Sequence>
   </local:SayitTwice.Implementation>
 </local:SayitTwice>
