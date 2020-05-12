@@ -8,3 +8,13 @@ C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\bin\Debug\HelloWorldActivities.pd
 C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csproj.CopyComplete
 C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.exe
 C:\Users\Jo\source\repos\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.pdb
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\bin\Debug\WFHost.exe.config
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\bin\Debug\WFHost.exe
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\bin\Debug\WFHost.pdb
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\bin\Debug\HelloWorldActivities.dll
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\bin\Debug\HelloWorldActivities.pdb
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csprojAssemblyReference.cache
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csproj.CoreCompileInputs.cache
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.csproj.CopyComplete
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.exe
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFHost\obj\x86\Debug\WFHost.pdb

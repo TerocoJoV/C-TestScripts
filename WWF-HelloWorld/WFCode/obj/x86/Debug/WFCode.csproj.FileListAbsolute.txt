@@ -1,0 +1,7 @@
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\bin\Debug\WFCode.exe.config
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\bin\Debug\WFCode.exe
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\bin\Debug\WFCode.pdb
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\obj\x86\Debug\WFCode.csprojAssemblyReference.cache
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\obj\x86\Debug\WFCode.csproj.CoreCompileInputs.cache
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\obj\x86\Debug\WFCode.exe
+C:\__GIT\C-TestScripts\WWF-HelloWorld\WFCode\obj\x86\Debug\WFCode.pdb

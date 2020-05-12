@@ -1,0 +1,2 @@
+TrafficLight.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper
